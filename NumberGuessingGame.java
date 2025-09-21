@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.pinheiroactivity6b;
+package com.mycompany.NumberGuessingGame;
 import java.util.Scanner;
 /**
  *
  * @author icode7
  */
-public class PinheiroActivity6B {
+public class NumberGuessingGame {
 
     public static void main(String[] args) {
         Scanner keyedinput = new Scanner(System.in);
