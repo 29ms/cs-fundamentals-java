@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.pinheiroactivity1a;
+package com.mycompany.BrainrotQuiz;
 import java.util.Scanner;
 
 /* 
