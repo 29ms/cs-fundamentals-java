@@ -6,13 +6,7 @@ package com.mycompany.BrainrotQuiz;
 import java.util.Scanner;
 
 /* 
- * Created By: Josiah Pinheiro
- * Created For: Mr. De Poli
- * Class: ICS 3U
- * Filename: PinheiroActivity1A.java
- * Project Start Date: Sept. 67, 2025
- * Project Completion Date: Sept. 67, 2025
- * Project Description: 
+ * Brainrot Quiz!
  */
 
 public class BrainrotQuiz {
