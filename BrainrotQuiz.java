@@ -15,7 +15,7 @@ import java.util.Scanner;
  * Project Description: 
  */
 
-public class PinheiroActivity1A {
+public class BrainrotQuiz {
 
     public static void main(String[] args) {
         Scanner keyedinput = new Scanner(System.in);
